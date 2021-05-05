@@ -21,7 +21,7 @@ run the webcam image through the image model
 
 predict can take in an image, video or canvas html element
 
--Web App uses the model.json
+[ ] Web App uses the model.json
 
--Teachable ML
+[ ] Teachable ML
 
