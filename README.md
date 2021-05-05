@@ -17,6 +17,8 @@ Refer to tmImage.loadFromFiles() in the API to support files from a file picker
 or files from your local hard drive
 Note: the pose library adds "tmImage" object to your window (window.tmImage)
 
+run the webcam image through the image model
+
 Web App uses the model.json
 
 Teachable ML
