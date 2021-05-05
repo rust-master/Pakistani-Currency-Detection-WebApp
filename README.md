@@ -19,7 +19,9 @@ Note: the pose library adds "tmImage" object to your window (window.tmImage)
 
 run the webcam image through the image model
 
-Web App uses the model.json
+predict can take in an image, video or canvas html element
 
-Teachable ML
+-Web App uses the model.json
+
+-Teachable ML
 
