@@ -1,4 +1,4 @@
-# Pakistani Currency Detection WebApp
+# Pakistani Currency Detection Web App
 
 ## Overview
 The model is developed on Teachable ML
